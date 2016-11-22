@@ -1,0 +1,1 @@
+# vscode-flat-icon-theme
